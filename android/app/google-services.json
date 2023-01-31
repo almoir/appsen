@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243321937831",
+    "project_id": "appsen-123",
+    "storage_bucket": "appsen-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243321937831:android:454a6106173f34107aa082",
+        "android_client_info": {
+          "package_name": "com.almoirmo.appsen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243321937831-8supd9l4ndsru1hoqhrnakgd4l6s368o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n2z3NqGNMcSAzu8QukCmSCRFN6b63oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243321937831-8supd9l4ndsru1hoqhrnakgd4l6s368o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
